@@ -1,7 +1,7 @@
 # Gintel summer project - Voice Bot
 
 This is a forked repository of my teams project during our summer internship at Gintel AS in 2024.
-<br/>My contributions are those submitted from the user **OstengenHerman**.
+<br/>My contributions are those submitted from the user [**OstengenHerman**](https://github.com/OstengenHerman).
 <br/>Except from this first short part of the README, nothing is changed.
 
 This repository contains progress and results accomplished during the **Voice Bot project** of Gintel's student-internship 2024.
